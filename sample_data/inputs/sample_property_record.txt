@@ -1,0 +1,9 @@
+PROPERTY RECORD EXTRACT
+
+Unit: 4B
+Building: Lakeview Commercial Complex
+Recorded occupant: Riya Malhotra
+Prior lessor: Northbridge Estates LLP
+Record updated: 21 January 2024
+
+No occupancy certificate number is visible in this extract.

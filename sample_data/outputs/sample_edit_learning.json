@@ -1,0 +1,16 @@
+[
+  {
+    "rule_description": "Always capitalize 'Notary Public'.",
+    "category": "style",
+    "scope": "global",
+    "original_text": "The document was signed before a notary public.",
+    "edited_text": "The document was signed before a Notary Public."
+  },
+  {
+    "rule_description": "Use 'INR' instead of 'Rs.' for currency.",
+    "category": "formatting",
+    "scope": "global",
+    "original_text": "The payment of Rs. 75,000 was made.",
+    "edited_text": "The payment of 75,000 INR was made."
+  }
+]
